@@ -18,6 +18,7 @@ export default class PP{
 
 public metodo1 () {
 
+console.log("metodo")
 
 }
 
