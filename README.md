@@ -24,6 +24,11 @@ public metodo1 () {
 
 public metodo2() {
 
+añlsdkfjñlsdakfj
+añlkdsñlsdjf
++alsñkdfjlñkasdfjñlasdf
+alñdkfjlñaskdfjñasdf
+return 0;
 }
 
 
