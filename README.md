@@ -1,5 +1,4 @@
 # practica_git
 
 primer cambioooo!!!
-hola mundo
-## Otro cambio
+"mati estuvo por aqui"
