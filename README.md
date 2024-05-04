@@ -7,3 +7,27 @@ primer cambioooo!!!
 "mati estuvo por aqui"
 
 [Get money for free!](https://www.youtube.com/watch?v=dQw4w9WgXcQ&list=PL7U7OfjtfVBRBZdQ3ctCHrsZUMMNlDoF0)
+
+
+
+
+---
+```js
+
+export default class PP{
+
+public metodo1 () {
+
+
+}
+
+
+public metodo2() {
+
+}
+
+
+
+}
+```
+---
